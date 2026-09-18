@@ -12,3 +12,7 @@ Answer: AI, we need to structure this data in order for AI models to know what t
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: I guess ill find out after this
+
+Q4: What are you looking forward to this semester?
+
+Answer: Making fat racks
