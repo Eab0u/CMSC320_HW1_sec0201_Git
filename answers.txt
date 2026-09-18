@@ -8,3 +8,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: AI, we need to structure this data in order for AI models to know what they are looking at
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: I guess ill find out after this
